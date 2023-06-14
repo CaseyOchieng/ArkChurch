@@ -28,11 +28,11 @@ The backend is built with Ruby on Rails and uses PostgreSQL as the database and 
 
 ### Setup
 
-To set up theARK-CHURCH backend, follow these steps:
+To set up the ARK-CHURCH backend, follow these steps:
 
 Clone the repository:
 
-       git clone https://github.com/abdishukri-105/Beauty-Bliss.git
+       git clone https://github.com/CaseyOchieng/ArkChurch
 
 ### Install dependencies
 
@@ -54,7 +54,7 @@ Clone the repository:
 
 #### Clone the repository
 
-    https://github.com/abdishukri-105/Beauty-Bliss
+    https://github.com/CaseyOchieng/ArkChurch/tree/master/api
 
 #### Install dependencies
 
